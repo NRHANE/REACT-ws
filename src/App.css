@@ -1,0 +1,19 @@
+.myform{
+  width: px;
+  
+}
+
+.labelText{
+  color: orangered;
+  font-weight:bold;
+}
+.labelText2{
+  font-size: small;
+}
+.myform button{
+background-color: orangered;
+}
+.myform button:hover{
+ background-color: green;
+ 
+}
